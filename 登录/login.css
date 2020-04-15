@@ -29,9 +29,13 @@ html,body{
     position: absolute;
     right: 60px;
     top: 30%;
-    background: #fff;
+    background: rgba(255, 255, 255, 0);
     padding:0 44px;
     border-radius: 5px;
+    }
+    .login_form h1{
+        color: #79daf8;
+        margin-top: 15px;
     }
 /* 用户名及密码框 */
 .login_form p input{
